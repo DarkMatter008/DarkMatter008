@@ -1,10 +1,11 @@
 
-<div align="center" height="500" background="red" >
+<div align="center" >
+    <img src="https://raw.githubusercontent.com/DarkMatter008/DarkMatter008/main/banner%20(1).png" alt="lazzy coder" align="center" width="80%"></img>
 </div>
 <h1 align="center">Hi 👋, I'm Sanjiban</h1>
 <h3 align="center">A lazzy web developer from India</h3>
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/894236/screenshots/4206863/media/38db165efb5bd6c70cbced9be46005c1.gif" alt="lazzy coder" align="center" width="80%"></img>
+  <img src="https://cdn.dribbble.com/users/894236/screenshots/4206863/media/38db165efb5bd6c70cbced9be46005c1.gif" alt="lazzy coder" align="center" height="300px" width="60%"></img>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkmatter008&label=Profile%20views&color=0e75b6&style=flat" alt="darkmatter008" /> </p>
 
